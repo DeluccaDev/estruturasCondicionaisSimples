@@ -3,10 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/estruturasCondicionaisSimples.iml" filepath="$PROJECT_DIR$/.idea/estruturasCondicionaisSimples.iml" />
-      <module fileurl="file://$PROJECT_DIR$/imparOuPar/imparOuPar.iml" filepath="$PROJECT_DIR$/imparOuPar/imparOuPar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mediaAluno/mediaAluno.iml" filepath="$PROJECT_DIR$/mediaAluno/mediaAluno.iml" />
-      <module fileurl="file://$PROJECT_DIR$/qntParcelas/qntParcelas.iml" filepath="$PROJECT_DIR$/qntParcelas/qntParcelas.iml" />
-      <module fileurl="file://$PROJECT_DIR$/votar/votar.iml" filepath="$PROJECT_DIR$/votar/votar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/impostosPorCidade/impostosPorCidade.iml" filepath="$PROJECT_DIR$/impostosPorCidade/impostosPorCidade.iml" />
     </modules>
   </component>
 </project>
