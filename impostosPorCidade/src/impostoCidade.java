@@ -8,7 +8,7 @@ public class impostoCidade {
         Scanner leitura = new Scanner(System.in);
         System.out.println("Digite a cidade que calcularemos o imposto sobre o produto");
         float valorImposto = leitura.nextFloat();
-        
+
 
     }
 }
