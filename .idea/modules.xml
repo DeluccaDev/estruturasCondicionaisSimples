@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/calculoMaca/calculoMaca.iml" filepath="$PROJECT_DIR$/calculoMaca/calculoMaca.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/estruturasCondicionaisSimples.iml" filepath="$PROJECT_DIR$/.idea/estruturasCondicionaisSimples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/impressao/impressao.iml" filepath="$PROJECT_DIR$/impressao/impressao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maiorDigito/maiorDigito.iml" filepath="$PROJECT_DIR$/maiorDigito/maiorDigito.iml" />
       <module fileurl="file://$PROJECT_DIR$/mediaAluno/mediaAluno.iml" filepath="$PROJECT_DIR$/mediaAluno/mediaAluno.iml" />
       <module fileurl="file://$PROJECT_DIR$/qntParcelas/qntParcelas.iml" filepath="$PROJECT_DIR$/qntParcelas/qntParcelas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/senhaValida/senhaValida.iml" filepath="$PROJECT_DIR$/senhaValida/senhaValida.iml" />
       <module fileurl="file://$PROJECT_DIR$/votos/votos.iml" filepath="$PROJECT_DIR$/votos/votos.iml" />
     </modules>
   </component>
